@@ -1,12 +1,152 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\LOQ\\Desktop\\API_crud_operation\\Crud_operaiton\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCF793B-258A-4AEA-9938-44FC4A501D56}|Crud_operaiton\\Crud_operaiton.csproj|c:\\users\\loq\\desktop\\api_crud_operation\\crud_operaiton\\crud_operaiton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCF793B-258A-4AEA-9938-44FC4A501D56}|Crud_operaiton\\Crud_operaiton.csproj|solutionrelative:crud_operaiton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCF793B-258A-4AEA-9938-44FC4A501D56}|Crud_operaiton\\Crud_operaiton.csproj|c:\\users\\loq\\desktop\\api_crud_operation\\crud_operaiton\\crud_operaiton\\controllers\\empolyeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCF793B-258A-4AEA-9938-44FC4A501D56}|Crud_operaiton\\Crud_operaiton.csproj|solutionrelative:crud_operaiton\\controllers\\empolyeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCF793B-258A-4AEA-9938-44FC4A501D56}|Crud_operaiton\\Crud_operaiton.csproj|c:\\users\\loq\\desktop\\api_crud_operation\\crud_operaiton\\crud_operaiton\\modles\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCF793B-258A-4AEA-9938-44FC4A501D56}|Crud_operaiton\\Crud_operaiton.csproj|solutionrelative:crud_operaiton\\modles\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCF793B-258A-4AEA-9938-44FC4A501D56}|Crud_operaiton\\Crud_operaiton.csproj|c:\\users\\loq\\desktop\\api_crud_operation\\crud_operaiton\\crud_operaiton\\migrations\\20250310032345_first_mig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCF793B-258A-4AEA-9938-44FC4A501D56}|Crud_operaiton\\Crud_operaiton.csproj|solutionrelative:crud_operaiton\\migrations\\20250310032345_first_mig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCF793B-258A-4AEA-9938-44FC4A501D56}|Crud_operaiton\\Crud_operaiton.csproj|c:\\users\\loq\\desktop\\api_crud_operation\\crud_operaiton\\crud_operaiton\\modles\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCF793B-258A-4AEA-9938-44FC4A501D56}|Crud_operaiton\\Crud_operaiton.csproj|solutionrelative:crud_operaiton\\modles\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCF793B-258A-4AEA-9938-44FC4A501D56}|Crud_operaiton\\Crud_operaiton.csproj|c:\\users\\loq\\desktop\\api_crud_operation\\crud_operaiton\\crud_operaiton\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCF793B-258A-4AEA-9938-44FC4A501D56}|Crud_operaiton\\Crud_operaiton.csproj|solutionrelative:crud_operaiton\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCF793B-258A-4AEA-9938-44FC4A501D56}|Crud_operaiton\\Crud_operaiton.csproj|c:\\users\\loq\\desktop\\api_crud_operation\\crud_operaiton\\crud_operaiton\\crud_operaiton.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EFCF793B-258A-4AEA-9938-44FC4A501D56}|Crud_operaiton\\Crud_operaiton.csproj|solutionrelative:crud_operaiton\\crud_operaiton.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCF793B-258A-4AEA-9938-44FC4A501D56}|Crud_operaiton\\Crud_operaiton.csproj|c:\\users\\loq\\desktop\\api_crud_operation\\crud_operaiton\\crud_operaiton\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EFCF793B-258A-4AEA-9938-44FC4A501D56}|Crud_operaiton\\Crud_operaiton.csproj|solutionrelative:crud_operaiton\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeDTO.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\API_crud_operation\\Crud_operaiton\\Crud_operaiton\\Modles\\EmployeeDTO.cs",
+              "RelativeDocumentMoniker": "Crud_operaiton\\Modles\\EmployeeDTO.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\API_crud_operation\\Crud_operaiton\\Crud_operaiton\\Modles\\EmployeeDTO.cs",
+              "RelativeToolTip": "Crud_operaiton\\Modles\\EmployeeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T18:41:02.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpolyeeController.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\API_crud_operation\\Crud_operaiton\\Crud_operaiton\\Controllers\\EmpolyeeController.cs",
+              "RelativeDocumentMoniker": "Crud_operaiton\\Controllers\\EmpolyeeController.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\API_crud_operation\\Crud_operaiton\\Crud_operaiton\\Controllers\\EmpolyeeController.cs",
+              "RelativeToolTip": "Crud_operaiton\\Controllers\\EmpolyeeController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwGAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T03:25:25.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250310032345_first_mig.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\API_crud_operation\\Crud_operaiton\\Crud_operaiton\\Migrations\\20250310032345_first_mig.cs",
+              "RelativeDocumentMoniker": "Crud_operaiton\\Migrations\\20250310032345_first_mig.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\API_crud_operation\\Crud_operaiton\\Crud_operaiton\\Migrations\\20250310032345_first_mig.cs",
+              "RelativeToolTip": "Crud_operaiton\\Migrations\\20250310032345_first_mig.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T03:23:45.26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\API_crud_operation\\Crud_operaiton\\Crud_operaiton\\Program.cs",
+              "RelativeDocumentMoniker": "Crud_operaiton\\Program.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\API_crud_operation\\Crud_operaiton\\Crud_operaiton\\Program.cs",
+              "RelativeToolTip": "Crud_operaiton\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T03:10:54.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\API_crud_operation\\Crud_operaiton\\Crud_operaiton\\appsettings.json",
+              "RelativeDocumentMoniker": "Crud_operaiton\\appsettings.json",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\API_crud_operation\\Crud_operaiton\\Crud_operaiton\\appsettings.json",
+              "RelativeToolTip": "Crud_operaiton\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-10T03:10:21.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\API_crud_operation\\Crud_operaiton\\Crud_operaiton\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Crud_operaiton\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\API_crud_operation\\Crud_operaiton\\Crud_operaiton\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Crud_operaiton\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T03:00:01.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\API_crud_operation\\Crud_operaiton\\Crud_operaiton\\Modles\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "Crud_operaiton\\Modles\\Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\API_crud_operation\\Crud_operaiton\\Crud_operaiton\\Modles\\Entities\\Employee.cs",
+              "RelativeToolTip": "Crud_operaiton\\Modles\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T02:55:53.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Crud_operaiton.csproj",
+              "DocumentMoniker": "C:\\Users\\LOQ\\Desktop\\API_crud_operation\\Crud_operaiton\\Crud_operaiton\\Crud_operaiton.csproj",
+              "RelativeDocumentMoniker": "Crud_operaiton\\Crud_operaiton.csproj",
+              "ToolTip": "C:\\Users\\LOQ\\Desktop\\API_crud_operation\\Crud_operaiton\\Crud_operaiton\\Crud_operaiton.csproj",
+              "RelativeToolTip": "Crud_operaiton\\Crud_operaiton.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-09T19:07:27.33Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
